@@ -30,6 +30,12 @@ We ask the code users to cite the following manuscript in any publications repor
 ## License
 **COVID19Waves** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
+<img src="logo/mit_license_red.png" width="10%"> 
+
+## Institutional support
+
+<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_ipl.png" width="35%"> &nbsp; &nbsp; <img src="logo/logo_unifesp_color.png" width="15%"> &nbsp; &nbsp;  <img src="logo/logo_uffs_color.png" width="25%">
+
 ## Funding
 
 <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">  &nbsp; &nbsp; <img src="logo/fapesp.png" width="20%"> &nbsp; &nbsp; <img src="logo/faperj.jpg" width="20%">
